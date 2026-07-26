@@ -20,7 +20,7 @@
 
 #### 🔗 Connect
 
-- **LinkedIn:** PASTE_YOUR_LINKEDIN_URL
-- **ORCID:** PASTE_YOUR_ORCID_URL
+- **LinkedIn:** (https://www.linkedin.com/in/jos%C3%A9-alejandro-v%C3%A1zquez-d%C3%ADaz-0702711b5/)
+- **ORCID:** https://orcid.org/my-orcid?orcid=0009-0006-8448-3469
 
 *Available for freelance bioinformatics & data-analysis projects.*

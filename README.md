@@ -14,7 +14,7 @@
 
 #### 📌 Featured projects
 
-- **[16S rRNA Microbiome Analysis Pipeline](https://github.com/AlejandroVzD/16S-microbiome-analysis)** — reproducible R pipeline from abundance table to diversity figures (PCoA + PERMANOVA, alpha diversity).
+- **[16S rRNA Microbiome Analysis Pipeline](https://github.com/AlejandroVzD/16S-microbiome-analysis)** — a reproducible end-to-end R pipeline: raw reads → ASV table (DADA2), alpha/beta diversity with PERMANOVA, differential abundance (DESeq2), and biomarkers (LEfSe), demonstrated on public colorectal-cancer data.
 - **[Monte Carlo Risk Analysis](https://github.com/AlejandroVzD/montecarlo-risk-analysis)** — Python simulation for project cost & budget risk (P10/P50/P90, sensitivity).
 - **[DNA Sequence Analysis Toolkit](https://github.com/AlejandroVzD/dna-sequence-analysis)** — Biopython toolkit for FASTA parsing, GC content, composition, and translation.
 
